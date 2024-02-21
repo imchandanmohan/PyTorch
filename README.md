@@ -38,7 +38,7 @@ If you find any errors in the notes, have suggestions for improvement, or want t
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 ## Acknowledgments
 
