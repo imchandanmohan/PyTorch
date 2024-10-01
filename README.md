@@ -34,7 +34,7 @@ Once you have PyTorch installed, you can start exploring the notes and running t
 
 ## Contributing
 
-If you find any errors in the notes, have suggestions for improvement, or want to contribute code examples or additional resources, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
+If you find any errors in the notes, have suggestions for improvement, or want to contribute code examples or additional resources, feel free to open an issue or submit a pull request. Your contributions are highly appreciate the work!
 
 ## License
 
