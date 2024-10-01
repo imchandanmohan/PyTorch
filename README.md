@@ -12,7 +12,7 @@ In this repository, you will find:
 
 ## Getting Started
 
-To get started, make sure you have PyTorch installed on your machine. You can install it using `pip`:
+To get started, make sure you have PyTorch installed on your machine. You can install it using `pip 3`:
 
 ```bash
 pip install torch torchvision
