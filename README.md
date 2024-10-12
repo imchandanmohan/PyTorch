@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch Notes
 
-Welcome to the repository for learning about deep learning using PyTorch! This repository contains notes, code examples, and resources to help you understand and implement deep learning algorithms using PyTorch.
+Welcome to the repository for learning about deep learning using PyTorch! This repository contains notes, code examples, and resources to help you understand and implement deep learning algorithms using PyTorch
 
 ## About
 
